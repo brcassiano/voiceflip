@@ -1,0 +1,31 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+settings.json
+
+# Claude / AI
+CLAUDE.md
+
+# Internal notes (not for repo)
+NOTES.md
+ROTEIRO_VIDEO.md
+technical_test_resilient_candidate.md
