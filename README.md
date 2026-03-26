@@ -97,4 +97,4 @@ Both handlers delegate retry logic to a single shared `async_retry()` function w
 
 ## Demo
 
-[Loom video walkthrough](https://www.loom.com/share/PLACEHOLDER)
+[Loom video walkthrough](https://www.loom.com/share/ef7564b657d64e609c2d286d11a90179)
